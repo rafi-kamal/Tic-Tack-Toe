@@ -1,3 +1,4 @@
+package buet.rafi.ticTackToe;
 // Determines the next move
 
 public class GameLogic 

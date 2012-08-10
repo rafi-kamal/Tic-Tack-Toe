@@ -1,3 +1,4 @@
+package buet.rafi.ticTackToe;
 import java.util.Comparator;
 
 public class PositionComparator implements Comparator<PositionPriority>

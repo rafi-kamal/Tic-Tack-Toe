@@ -1,3 +1,4 @@
+package buet.rafi.ticTackToe;
 // Determines next position selecting randomly
 
 import java.util.PriorityQueue;
